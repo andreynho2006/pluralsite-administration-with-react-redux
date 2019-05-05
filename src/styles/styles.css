@@ -10,6 +10,10 @@ a.active {
     color:orange;
 }
 
+/* a:hover {
+    color:orange;
+} */
+
 nav {
     padding-top: 20px;
 }
